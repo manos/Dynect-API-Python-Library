@@ -5,6 +5,9 @@ As it makes use of a JSON interface, one must either have the simplejson
 module installed, or have Python 2.6/2.7 which have a JSON library that comes
 with the language.  Python 3.x is not currently specifically supported.
 
+Installation (optional): 
+    pip install -e 'git+https://github.com/dyninc/Dynect-API-Python-Library.git#egg=DynectDNS'
+
 Use is fairly simple:
 
 import sys

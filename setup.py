@@ -11,5 +11,5 @@ setup(
     long_description=open(os.path.join(os.path.dirname(__file__),"README"), "r").read(),
     description="Dynect REST API wrapper",
     author="dyn.com",
-    packages=['dynect'],
+    packages=['DynectDNS'],
 )
